@@ -27,4 +27,4 @@ To achieve significantly higher accuracy on this dataset, you can fork this proj
 * Expanded search spaces allowing for more layers and longer training epochs.
 
 ## Author
-Developed and maintained by Paxton.
+Developed and maintained by Paxton
