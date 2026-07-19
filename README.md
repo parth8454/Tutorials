@@ -4,7 +4,7 @@
 This repository contains a Jupyter Notebook designed to demonstrate how to effectively use Keras Tuner for hyperparameter optimization in Deep Learning. The primary goal of this project is learning the core mechanics of automating architecture selection rather than achieving maximum model accuracy. Therefore, standard data preprocessing steps were intentionally omitted to focus strictly on the tuning workflow
 
 ## The Dataset
-We utilize the Diabetes dataset for a binary classification task. The objective is to predict the onset of diabetes based on raw medical diagnostic measurements.
+We utilize the Diabetes dataset for a binary classification task. The objective is to predict the onset of diabetes based on raw medical diagnostic measurements
 
 ## Key Concepts Covered
 * Implementing Keras Tuner within a standard TensorFlow workflow.
