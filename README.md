@@ -11,7 +11,7 @@ We utilize the Diabetes dataset for a binary classification task. The objective 
 * Defining a dynamic search space using hyperparameter objects.
 * Automating the selection of hidden layers, neuron counts, and activation functions.
 * Understanding the fundamental differences between search trials and training epochs.
-* Extracting and interpreting the final best model architecture.
+* Extracting and interpreting the final best model architecture
 
 ## Setup Instructions
 Follow these steps to run the notebook locally:
