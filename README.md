@@ -1,5 +1,5 @@
 # Automating Neural Network Architecture with Keras Tuner
-..
+
 ## Project Overview
 This repository contains a Jupyter Notebook designed to demonstrate how to effectively use Keras Tuner for hyperparameter optimization in Deep Learning. The primary goal of this project is learning the core mechanics of automating architecture selection rather than achieving maximum model accuracy. Therefore, standard data preprocessing steps were intentionally omitted to focus strictly on the tuning workflow.
 
